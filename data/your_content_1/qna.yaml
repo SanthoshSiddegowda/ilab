@@ -1,165 +1,90 @@
 version: 3
-created_by: santhoshjs
-domain: retail_technology
+domain: bizom
+created_by: santhoshSiddegowda
 seed_examples:
   - context: |
-      Bizom: The Retail Intelligence Platform
-      Bizom is a retail intelligence platform that accelerates sales and distribution engines in 32+ countries.
-      Trusted by over 600+ Consumer Packaged Goods (CPG) leaders, Bizom helps brands optimize their route to market
-      with data-driven insights and unified visibility. The platform serves as a single source of truth for
-      distribution in emerging markets, enabling businesses to make strategic decisions on expansion, distribution,
-      margin, pricing, and budgeting.
-      
-      Bizom's platform handles massive scale with 200K+ sales force users, 100K+ channel partners, and 8 million
-      retailers generating an annual Gross Merchandise Value (GMV) of $20 billion. The company's full-suite B2B
-      product distribution technology provides higher sales efficiency and smarter market insights across the
-      entire retail ecosystem.
-      
-      The platform was built after extensive research and development, with the team asking themselves: "What do we
-      want to be when we grow up?" Their answer was clear - to deliver a platform for the consumer brand ecosystem
-      that serves as a single source of truth for distribution in emerging markets. Staying true to this vision,
-      Bizom continually works on increasing the platform's capabilities to drive growth and increase Route To Market
-      efficiency for their customers.
+      **Bizom** is a leading [retail intelligence platform](retail_intelligence "wikilink") for consumer goods brands and their retailers. Founded by [Mobisy Technologies](mobisy "wikilink"), Bizom has established itself as a pioneer in providing insights and intelligence to [CPG brands](CPG "wikilink") across India and emerging markets. The platform enables smart distribution by digitizing the entire sales and supply chain - from brand warehouses to distributors to retailers. Bizom's proprietary analytics engine [ELL](ELL "wikilink") delivers real-time insights that help companies optimize their supply chain efficiency. The platform facilitates the transformation from traditional push-based distribution to modern pull-based distribution through assisted and inspired selling solutions. Bizom serves the complete ecosystem of the consumer goods industry, connecting brands, wholesalers, distributors, and retailers in a seamless digital network.
     questions_and_answers:
       - question: |
           What is Bizom?
         answer: |
-          Bizom is a retail intelligence platform that accelerates sales and distribution engines in 32+ countries.
+          Bizom, Mobisy's flagship product, is the retail intelligence platform for brands and their retailers. We are leaders in providing insights and intelligence to CPG brands in India and emerging markets and are now making inroads into markets in Europe and other developed markets. We help brands achieve smart distribution by improving their manpower efficiency, channel performance and product performance. We achieve this by helping businesses first digitise their entire sales and supply chain and later help the move from a push based distribution to a pull based distribution using solutions that facilitate assisted and inspired selling.
       - question: |
-          How many CPG leaders trust Bizom?
+          What differentiates Bizom?
         answer: |
-          Over 600+ CPG (Consumer Packaged Goods) leaders trust Bizom.
+          Bizom is India's only complete ecosystem player for the consumer goods industry, transforming the entire FMCG supply network from brands to wholesalers/distributors to retailers. The brand warehouse → The distributor → The salesman who takes orders at the store → Order fulfillment → Retailer digitization for self ordering. This, coupled with Bizom's proprietary analytics engine ELL that makes real-time insights really possible, helps companies drive efficiencies across the entire supply chain resulting in outcomes such as greater availability, improved manpower productivity, reduced stock in trade, just in time ordering and hence higher rotation of products.
       - question: |
-          What scale does Bizom's platform handle?
+          Who are Bizom's competitors?
         answer: |
-          Bizom's platform handles 200K+ sales force users, 100K+ channel partners, and 8 million retailers generating an annual GMV of $20 billion.
+          Bizom being a complete ecosystem player doesn't have any specific competitors who play across the whole stack. Our competition varies based on the type of problem we are trying to solve. For e.g. - For companies looking for distributor automation, we compete with legacy folks such as Botree, Sify FORUM or in places even Accenture CAS - In sales force productivity space, we compete with Accenture Newspage, IVY mobility and Salesforce - For a brand looking for retailer digitization for self-ordering, we have almost no real established competition.
+      - question: |
+          How does Bizom help brands respond to market changes?
+        answer: |
+          Bizom's real-time data and analytics allow brands to quickly identify trends and adapt their strategies to changing market conditions.
   - context: |
-      Bizom's Core Modules and Features
-      Bizom offers a comprehensive suite of modules designed to digitize, optimize, and expand retail operations.
-      The platform includes Sales Force Automation (SFA) with features like Attendance & Leave Management, Order
-      Management, Asset Management, Van Sales Automation, and User Claims Management. The Distributor Management
-      System (DMS) includes Web & Mobile DMS and Bizom Connect.
-      
-      For optimization, Bizom provides an Auto Replenishment System, Smart Merchandising, Beat Optimization,
-      Trade Promotion Management, and Suggested Order capabilities. Additional features include Gamification,
-      B2B WhatsApp Business integration, and a Tertiary Sales App.
-      
-      Expansion tools include Sales & Operational Planning, a Retailer App, WhatsApp Ordering Bot, ONDC
-      integration, and B2B Buy Now Pay Later (BNPL) options. The technology is bolstered with cutting-edge
-      features like image recognition and artificial intelligence.
-      
-      While all of Bizom's products are valuable alone, customers that have driven the most growth leverage
-      the end-to-end platform. Bizom first helps brands digitize their channels, sales force, and retailers.
-      Then, it helps these businesses optimize their route to market with insights from their proprietary
-      analytics engine.
+      Bizom's impact on retail analytics is transformative. By leveraging advanced data collection and real-time reporting, Bizom empowers brands and distributors to make data-driven decisions that improve product availability, optimize inventory, and increase sales velocity. The platform's analytics engine provides actionable insights, helping businesses identify trends, forecast demand, and respond quickly to market changes.
     questions_and_answers:
       - question: |
-          What are the main modules offered by Bizom?
+          How does Bizom help with retail analytics?
         answer: |
-          Bizom offers Sales Force Automation (SFA), Distributor Management System (DMS), and various optimization and expansion tools.
+          Bizom collects and analyzes sales, inventory, and supply chain data in real time, enabling brands to make informed decisions, optimize stock levels, and improve product availability at retail outlets.
       - question: |
-          What features are included in Bizom's Sales Force Automation?
+          What kind of insights does Bizom provide?
         answer: |
-          Bizom's Sales Force Automation includes Attendance & Leave Management, Order Management, Asset Management, Van Sales Automation, and User Claims Management.
+          Bizom's analytics engine delivers insights on sales trends, demand forecasting, channel performance, and supply chain bottlenecks, allowing businesses to act proactively.
       - question: |
-          What advanced technologies does Bizom incorporate in its platform?
+          How does Bizom help brands respond to market changes?
         answer: |
-          Bizom incorporates cutting-edge features like image recognition and artificial intelligence in its platform.
+          Bizom's real-time data and analytics allow brands to quickly identify trends and adapt their strategies to changing market conditions.
   - context: |
-      Bizom's Eagle Eye and Tour Planning Features
-      When Bizom set out to build an insights engine, they were clear that it needed to provide all the ammunition
-      for brands to make decisions on strategic expansion, distribution, margin, pricing, and budgeting. That's
-      the role of Bizom Eagle Eye. By analyzing petabytes of hyperlocal data, socio-economic data, and data across
-      the entire gamut of the retail universe, Eagle Eye provides geographical and visual insights to brands at a
-      very granular level of 2X2 km. It serves as a magic potion to drive growth.
-      
-      Bizom Tour Programs allow sales executives to plan their journey, set and assign new beats, and define
-      budgets for a tour. It also ensures 100% visibility for stakeholders to monitor user-wise journeys in one
-      consolidated view. This makes market visits simpler and more effective.
-      
-      The Multi-brand Retailer App addresses the pain brands experience in trying to increase reach and reduce
-      scheme leakages. In addition to solving such challenges, it's also the go-to solution for brands to drive
-      retailer loyalty management and targeted marketing campaigns and schemes.
+      Bizom is at the forefront of digital innovation in the consumer goods industry. The platform enables seamless collaboration between brands, distributors, and retailers, digitizing every step of the supply chain. With features like self-ordering for retailers and mobile-first sales force automation, Bizom drives efficiency and transparency across the distribution network.
     questions_and_answers:
       - question: |
-          What is Bizom Eagle Eye and what does it do?
+          How does Bizom drive digital innovation?
         answer: |
-          Bizom Eagle Eye is an insights engine that analyzes petabytes of hyperlocal data, socio-economic data, and retail universe data to provide geographical and visual insights to brands at a granular level of 2X2 km.
+          Bizom digitizes the entire sales and supply chain process, from order placement to fulfillment, enabling real-time collaboration and data sharing among all stakeholders.
       - question: |
-          What features does Bizom Tour Programs offer?
+          What are some unique features of Bizom?
         answer: |
-          Bizom Tour Programs allows sales executives to plan their journey, set and assign new beats, define budgets for a tour, and provides 100% visibility for stakeholders to monitor user-wise journeys in one consolidated view.
+          Unique features include retailer self-ordering, mobile sales force automation, and real-time analytics, all designed to increase efficiency and transparency in the supply chain.
       - question: |
-          What problems does the Multi-brand Retailer App solve?
+          How does Bizom support collaboration between sales teams and management?
         answer: |
-          The Multi-brand Retailer App helps brands increase reach, reduce scheme leakages, drive retailer loyalty management, and implement targeted marketing campaigns and schemes.
+          Bizom enables seamless communication and data sharing between field sales teams and managers, ensuring everyone is aligned and can act on insights quickly.
   - context: |
-      Bizom's Impact and Outcomes
-      Bizom has delivered significant outcomes for its customers across various industries. A leading packaged
-      water brand experienced 30% sales growth in a key market using Bizom's platform. A beverage leader projected
-      $42 million in savings by stopping scheme leakages. A leading consumer durables brand saw a 96% increase in
-      productive calls.
-      
-      A global health and hygiene leader achieved an 18% increase in outlet reach. A leading confectionery brand
-      experienced a 113% increase in drop-sizes. A packaged food leader saw a 50% increase in sales productivity.
-      
-      Bizom's platform helps 600+ CPG brands automate their end-to-end sales and distribution. The company first
-      helps brands digitize their channels, sales force, and retailers. Bizom then helps these businesses optimize
-      their route to market with insights from their proprietary analytics engine.
-      
-      The full-stack retail intelligence platform digitizes, optimizes, and expands channels, distributor and
-      retailer networks to shrink expenses and grow profits. This makes Bizom a critical partner for consumer
-      brands looking to enhance their market presence and operational efficiency.
+      Bizom empowers field sales teams with mobile-first tools that streamline order taking, route planning, and performance tracking. By digitizing daily operations, Bizom helps sales representatives become more productive and enables managers to monitor and coach their teams in real time.
     questions_and_answers:
       - question: |
-          What sales growth did a packaged water brand achieve with Bizom?
+          How does Bizom support field sales teams?
         answer: |
-          A leading packaged water brand experienced 30% sales growth in a key market using Bizom's platform.
+          Bizom provides mobile apps for sales reps to take orders, plan routes, and track their performance, making daily operations more efficient and transparent.
       - question: |
-          How much did a beverage leader save by stopping scheme leakages with Bizom?
+          What benefits do managers get from Bizom's sales tools?
         answer: |
-          A beverage leader projected $42 million in savings by stopping scheme leakages using Bizom's platform.
+          Managers can monitor field activities in real time, identify top performers, and provide targeted coaching to improve sales outcomes.
       - question: |
-          What increase in productive calls did a consumer durables brand see with Bizom?
+          How does Bizom help brands measure the effectiveness of retailer engagement?
         answer: |
-          A leading consumer durables brand saw a 96% increase in productive calls using Bizom's platform.
+          Bizom provides analytics on retailer participation, order frequency, and loyalty program performance, helping brands refine their engagement strategies for better results.
   - context: |
-      Bizom's Technology and Future Direction
-      Bizom is continually working on increasing the platform's capability to drive growth and increase Route To
-      Market efficiency for their customers. The company has made multiple UI/UX updates and identified newer
-      avenues to collect user feedback and closely monitor user experience. They have more than halved the errors
-      to currently be at less than 200 errors for every 100 million requests, with a crash-free user percentage
-      now above 95%.
-      
-      Bizom's Auto Replenishment feature helps FMCG brands maintain fill-rate levels above 90%. The update allows
-      a holistic view of orders and inventory, and the option to auto-replenish inventory, making low fill rates
-      a problem of the past for their customers.
-      
-      The company has also introduced several improvements in the user interface and game experience for their
-      Gamification feature. Badges, images, and caricatures can be easily integrated into the product to give it
-      a better look and feel, with more KPIs seamlessly incorporated into the games.
-      
-      In December 2024, Bizom secured $12 million in Series B funding led by Pavestone. According to CEO Lalit
-      Bhise, "This investment isn't just capital—we are engineering the future of retail distribution through
-      next-generation products like Real Intelligence infrastructure, agentification, voice recognition, and
-      augmented reality to address real-world challenges faced by global retail enterprises."
+      Bizom's retailer engagement solutions foster stronger relationships between brands and retailers. Through self-ordering apps, loyalty programs, and digital communication channels, Bizom helps brands stay connected with their retail partners and drive higher engagement and sales.
     questions_and_answers:
       - question: |
-          What is Bizom's Auto Replenishment feature designed to achieve?
+          How does Bizom enhance retailer engagement?
         answer: |
-          Bizom's Auto Replenishment feature helps FMCG brands maintain fill-rate levels above 90% by providing a holistic view of orders and inventory, and the option to auto-replenish inventory.
+          Bizom offers self-ordering apps, loyalty programs, and digital communication tools that help brands build stronger relationships with retailers and increase sales.
       - question: |
-          What improvements has Bizom made to its Gamification feature?
+          What is the impact of Bizom's retailer engagement solutions?
         answer: |
-          Bizom has introduced several improvements in the user interface and game experience, allowing badges, images, and caricatures to be easily integrated into the product, with more KPIs seamlessly incorporated into the games.
+          Brands see improved order frequency, better product visibility, and increased loyalty from their retail partners thanks to Bizom's engagement tools.
       - question: |
-          What future technologies is Bizom developing according to their CEO?
+          How does Bizom help brands track retailer engagement performance?
         answer: |
-          According to CEO Lalit Bhise, Bizom is developing next-generation products like Real Intelligence infrastructure, agentification, voice recognition, and augmented reality to address real-world challenges faced by global retail enterprises.
+          Bizom provides detailed analytics on retailer activity, order frequency, and participation in loyalty programs, enabling brands to measure and improve their engagement strategies.
 document_outline: |
- Information about Bizom, a retail intelligence platform that helps consumer brands optimize their sales and distribution.
+  Information about Bizom, its platform, impact on retail analytics, supply chain transformation, and digital innovation.
 document:
-  repo: https://github.com/SanthoshSiddegowda/ilab.git
-  commit: b1744af
+  repo: https://github.com/santhoshSiddegowda/ilab
+  commit: 90dae9480dded942dc683c3b1bf9c88e5f561a7d
   patterns:
     - markdown/bizom_platform_overview.md
